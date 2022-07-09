@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250927248756",
+    "project_id": "r-ventureotp",
+    "storage_bucket": "r-ventureotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250927248756:android:ff32443dca1f56120ae821",
+        "android_client_info": {
+          "package_name": "com.example.rventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250927248756-d9na5uiig8gc0qjdfo93ub32bknsjj5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFD65ScQTibkaSPf1tXvmOcj4bFBYfJjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250927248756-d9na5uiig8gc0qjdfo93ub32bknsjj5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
